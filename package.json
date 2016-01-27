@@ -1,10 +1,16 @@
 {
   "name": "lazytraveler",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lazy Traveler",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venture123/LazyTraveler.git"
+  },
   "dependencies": {
-    "react": "^0.14.6"
+    "jquery": "^2.2.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
   },
   "devDependencies": {},
   "scripts": {
